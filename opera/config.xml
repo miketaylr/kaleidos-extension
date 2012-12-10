@@ -1,0 +1,9 @@
+<widget xmlns="http://www.w3.org/ns/widgets" id="http://coldhead.miketaylr.com" version="0.1">
+  <name short="Kaleidos" xml:lang="en">Kaleidos</name>
+  <author>Mike Taylor</author>
+  <description xml:lang="en">Adds a context-menu option to open any image in Coldhead's Kaleidos™</description>
+  <icon src="butterfly_16.png" width="16" height="16" />
+  <icon src="butterfly_48.png" width="48" height="48" />
+  <icon src="butterfly_128.png" width="128" height="128" />
+  <feature name="opera:contextmenus" required="true" />
+</widget>

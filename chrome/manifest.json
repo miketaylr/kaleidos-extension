@@ -1,0 +1,16 @@
+{
+  "name": "Kaleidos",
+  "description": "Adds a context-menu option to open any image in Coldhead's Kaleidos™",
+  "version": "0.1",
+  "permissions": ["contextMenus"],
+  "background": {
+    "scripts": ["kaleidos.js"],
+    "persistent": false
+    },
+  "icons": {
+    "16": "butterfly_16.png",
+    "48": "butterfly_48.png",
+    "128": "butterfly_128.png"
+  },
+  "manifest_version": 2
+}
